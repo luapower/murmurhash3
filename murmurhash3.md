@@ -1,6 +1,7 @@
 ---
-project: murmurhash3
-tagline: murmurhash3 Lua implementation
+project:     murmurhash3
+tagline:     murmurhash3 Lua implementation
+category:    Hashing
 ---
 
 v1.0 | LuaJIT 2
