@@ -4,8 +4,6 @@ tagline:     murmurhash3 Lua implementation
 category:    Hashing
 ---
 
-v1.0 | LuaJIT 2
-
 ## `local murmurhash3 = require'murmurhash3'`
 
 ------------------------------------------------
