@@ -1,7 +1,6 @@
 ---
 project:     murmurhash3
 tagline:     murmurhash3 Lua implementation
-category:    Hashing
 ---
 
 ## `local murmurhash3 = require'murmurhash3'`
