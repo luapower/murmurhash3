@@ -1,6 +1,6 @@
 ---
-project:     murmurhash3
-tagline:     murmurhash3 Lua implementation
+project: murmurhash3
+tagline: murmurhash3 in Lua
 ---
 
 ## `local murmurhash3 = require'murmurhash3'`
