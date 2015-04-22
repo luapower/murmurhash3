@@ -9,5 +9,3 @@ tagline: murmurhash3 in Lua
 `murmurhash3(s, [size][, seed]) -> hash`
 `murmurhash3(cdata, [size][, seed]) -> hash`
 ------------------------------------------------
-
-See also: [pmurhash]
