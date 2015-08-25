@@ -1,5 +1,4 @@
 ---
-project: murmurhash3
 tagline: murmurhash3 in Lua
 ---
 
